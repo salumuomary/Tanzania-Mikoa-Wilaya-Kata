@@ -1,6 +1,6 @@
 # Tanzania-Mikoa-Wilaya-Kata
 A PHP-based dynamic cascading dropdown application that allows users to select a Region, District, and Ward from hierarchical data. The dropdowns update automatically using JavaScript and JSON data.
-
+![Screenshot of Region-District-Ward Selectors](image.png)
 # Features
 - Dynamic Dropdowns: Automatically updates District and Ward options based on the selected Region.
 - Lightweight and Responsive: Simple HTML, CSS, and JavaScript integration.
@@ -15,7 +15,7 @@ A PHP-based dynamic cascading dropdown application that allows users to select a
 - JSON
 #Setup
 1. Clone the repository.
-2. Place the Combined_Regions.json file in the project directory.
+2. Place the 'Combined_Regions.json' file in the project directory.
 3. Run the PHP file on a local server.
 #Contribution
 Feel free to fork this repository and submit pull requests for enhancements or additional features!
